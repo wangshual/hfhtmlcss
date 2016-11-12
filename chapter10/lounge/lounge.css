@@ -57,3 +57,9 @@ h2 {
 #elixirs{
     line-height: 1;
 }
+#footer{
+    font-size: 50%;
+    text-align: center;
+    line-height: normal;
+    margin-top: 30px;
+}
